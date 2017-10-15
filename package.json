@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mpolson64/mochatest/issues"
   },
-  "homepage": "https://github.com/mpolson64/mochatest#readme"
+  "homepage": "https://github.com/mpolson64/mochatest#readme",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
 }
